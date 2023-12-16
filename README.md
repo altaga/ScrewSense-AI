@@ -17,7 +17,7 @@ Video Demo: Click on the image
 
 ## Main Code:
 
-[ScrewsClassifier](./ScrewsClassifier/)
+[ScrewsClassifier](./ScrewsClassifier/screws.py)
 
 # Introduction:
 
