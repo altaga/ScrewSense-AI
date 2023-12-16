@@ -125,6 +125,10 @@ My solution was to create a virtual environment with [miniconda](https://docs.co
 
 - Once this is done, you can use any inference model you have trained in Colab. The files used in the demo are located in the [ScrewsClassifier](./ScrewsClassifier/).
 
+        python anomalib/tools/inference/screws.py --weights ScrewsClassifier/model.onnx --metadata ScrewsClassifier/metadata.json --input ScrewsClassifier/input.png --output test_result --show
+
+<img src="https://i.ibb.co/zX1cxCf/20231216-034424.jpg"> 
+
 # The Final Product:
 
 ### Complete System:
