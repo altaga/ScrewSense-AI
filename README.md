@@ -139,6 +139,7 @@ My solution was to create a virtual environment with [miniconda](https://docs.co
 # EPIC DEMO:
 
 Video: Click on the image
+
 [![ScrewVideo](https://i.ibb.co/h1p7nRp/image.png)](pending...)
 
 # Table of contents
