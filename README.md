@@ -83,7 +83,8 @@ The entire notebook is commented and comes with the latest results I ran, howeve
 
 [NOTEBOOK](./ColabNotebook/Anomalib_Train.ipynb)
 
-### NOTE: The most important change is the config.yaml file
+[!NOTE]  
+The most important change is the config.yaml file
 
     dataset:
     ...
@@ -153,7 +154,6 @@ Video: Click on the image
   - [Materials:](#materials)
   - [Connection Diagram:](#connection-diagram)
 - [Online Train:](#online-train)
-    - [NOTE: The most important change is the config.yaml file](#note-the-most-important-change-is-the-configyaml-file)
 - [Board Setup:](#board-setup)
 - [The Final Product:](#the-final-product)
     - [Complete System:](#complete-system)
