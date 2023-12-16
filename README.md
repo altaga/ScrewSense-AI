@@ -74,13 +74,27 @@ This general connection diagram shows how through a camera we can obtain images 
 
 # Online Train:
 
-Para poder realizar el entrenamiento y el testing de los modelos de anomalib de la forma mas sencilla posible para liberarlo de forma open source, lo mejor qe se me ocurrio fue realizar un notebook de google colab para que cualquiera pueda entrenar este modelo.
+In order to train anomalib models in the easiest way possible to release them open source, the best thing I could think of was to create a Google Colab notebook so that anyone can train this model.
 
 <img src="https://i.ibb.co/TTmk2Qv/image.png" width="1000">
 
-Todo el notebook esta comentado y viene con los ultimos outputs que yo realice, sin embargo si realizas un run all a todo el notebook obtendras los mismos resultados.
+The entire notebook is commented and comes with the latest results I ran, however if you run everything on the entire notebook you will get the same results.
 
-[NOTEBOOK](./)
+[NOTEBOOK](./ColabNotebook/Anomalib_Train.ipynb)
+
+### NOTE: The most important change is the config.yaml file
+
+    dataset:
+    ...
+    category: screw  # Put your category here
+    ...
+
+    ...
+
+    optimization:
+    export_mode: openvino  # Put the inferencer here
+
+    ...
 
 # Board Setup:
 
@@ -133,6 +147,7 @@ Video: Click on the image
   - [Materials:](#materials)
   - [Connection Diagram:](#connection-diagram)
 - [Online Train:](#online-train)
+    - [NOTE: The most important change is the config.yaml file](#note-the-most-important-change-is-the-configyaml-file)
 - [Board Setup:](#board-setup)
 - [The Final Product:](#the-final-product)
     - [Complete System:](#complete-system)
