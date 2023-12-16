@@ -9,7 +9,7 @@
 
 Video Demo: Click on the image
 
-[![ScrewVideo](https://i.ibb.co/h1p7nRp/image.png)](pending...)
+[![ScrewVideo](https://i.ibb.co/h1p7nRp/image.png)](https://youtu.be/lZUyCOMZeE8)
 
 # Introduction:
 
@@ -112,7 +112,6 @@ My solution was to create a virtual environment with [miniconda](https://docs.co
 
 - Install Raspbian in its 64-bit version. https://www.raspberrypi.com/software/
 
-
 <img src="https://i.ibb.co/SV17s6T/image.png"> 
 
 - Install miniconda and create python3.10 env.
@@ -143,7 +142,7 @@ My solution was to create a virtual environment with [miniconda](https://docs.co
 
 Video: Click on the image
 
-[![ScrewVideo](https://i.ibb.co/h1p7nRp/image.png)](pending...)
+[![ScrewVideo](https://i.ibb.co/h1p7nRp/image.png)](https://youtu.be/lZUyCOMZeE8)
 
 # Table of contents
 
