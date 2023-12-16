@@ -5,9 +5,10 @@
 
 # Fast Links:
 
-### Video Demo:
+## Video Demo:
 
 Video Demo: Click on the image
+
 [![ScrewVideo](https://i.ibb.co/h1p7nRp/image.png)](pending...)
 
 # Introduction:
@@ -144,7 +145,7 @@ Video: Click on the image
 
 - [ScrewSense AI](#screwsense-ai)
 - [Fast Links:](#fast-links)
-    - [Video Demo:](#video-demo)
+  - [Video Demo:](#video-demo)
 - [Introduction:](#introduction)
 - [Problem:](#problem)
 - [Solution:](#solution)
