@@ -11,6 +11,14 @@ Video Demo: Click on the image
 
 [![ScrewVideo](https://i.ibb.co/h1p7nRp/image.png)](https://youtu.be/lZUyCOMZeE8)
 
+## Notebook:
+
+[NOTEBOOK](./ColabNotebook/Anomalib_Train.ipynb)
+
+## Main Code:
+
+[ScrewsClassifier](./ScrewsClassifier/).
+
 # Introduction:
 
 In the realm of modern manufacturing, precision and quality are essential. The process of screw manufacturing involves intricate steps, from the initial material selection to the final threading and coating. With the rise of automation and Industry 4.0, Artificial Intelligence (AI) has emerged, the efficiency and accuracy of various manufacturing processes can be possible.
@@ -149,6 +157,8 @@ Video: Click on the image
 - [ScrewSense AI](#screwsense-ai)
 - [Fast Links:](#fast-links)
   - [Video Demo:](#video-demo)
+  - [Notebook:](#notebook)
+  - [Main Code:](#main-code)
 - [Introduction:](#introduction)
 - [Problem:](#problem)
 - [Solution:](#solution)
