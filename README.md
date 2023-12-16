@@ -83,6 +83,8 @@ The entire notebook is commented and comes with the latest results I ran, howeve
 
 [NOTEBOOK](./ColabNotebook/Anomalib_Train.ipynb)
 
+<hr>
+
 > [!NOTE] 
 > The most important change is the config.yaml file
 
